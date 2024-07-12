@@ -18,3 +18,7 @@ import './commands'
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
+
+//Run Only HTML Report//
+//npx cypress run --spec cypress\e2e\APIChaing.cy.j
+//https://www.npmjs.com/package/cypress-mochawesome-reporter
